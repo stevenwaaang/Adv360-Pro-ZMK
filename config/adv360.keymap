@@ -48,7 +48,7 @@
             bindings = <
 &kp EQUAL  &kp N1            &kp N2             &kp N3                &kp N4                 &kp N5  &trans                                                 &mo 3      &kp N6  &kp KP_NUM  &kp KP_EQUAL  &kp KP_DIVIDE  &kp KP_MULTIPLY  &kp MINUS
 &kp TAB    &kp Q             &kp W              &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp T   &none                                                  &none      &kp Y   &kp KP_N7   &kp UP_ARROW  &kp KP_N9      &kp KP_MINUS     &kp BSLH
-&kp ESC    &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp LEFT_BRACE        &kp RIGHT_BRACE        &kp G   &none     &tog 0   &kp LALT      &kp LGUI   &kp RCTRL  &none      &kp H   &kp LEFT    &kp DOWN      &kp RIGHT      &kp KP_PLUS      &kp SQT
+&kp ESC    &kp LEFT_BRACKET  &kp RIGHT_BRACKET  &kp LEFT_BRACE        &kp RIGHT_BRACE        &kp G   &none     &trans   &kp LALT      &kp LGUI   &kp RCTRL  &none      &kp H   &kp LEFT    &kp DOWN      &kp RIGHT      &kp KP_PLUS      &kp SQT
 &kp LSHFT  &kp Z             &kp X              &kp C                 &kp V                  &kp B                      &kp HOME      &kp PG_UP                        &kp N   &kp KP_N1   &kp COMMA     &kp PERIOD     &kp KP_ENTER     &kp RSHFT
 &mo 2      &kp GRAVE         &kp EQUAL          &kp LEFT              &kp RIGHT                      &kp BSPC  &kp DEL  &kp END       &kp PG_DN  &kp ENTER  &kp KP_N0          &kp UP      &kp DOWN      &kp KP_DOT     &kp RBKT         &mo 2
             >;
